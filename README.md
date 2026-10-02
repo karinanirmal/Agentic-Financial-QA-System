@@ -3,9 +3,9 @@
 ## Team Information
 
 * **Members**:
-  * Petros Stylianos Giouroukis (pg2860)
-  * Shiv Kampani (svk2118)
-  * Kendall Ma (wm2544)
+  * (teammate 1 
+  * (teammate 2)
+  * (teammate 3)
   * Karina Nirmal (kkn2118)
 
 ---
