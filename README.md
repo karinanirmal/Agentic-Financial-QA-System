@@ -1,4 +1,4 @@
-# HPML Project: Small Agent Pipelines for Multi-Step Numeric Financial Tasks
+# Small Agent Pipelines for Multi-Step Numeric Financial Tasks
 
 ## Team Information
 
